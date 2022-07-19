@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeamAssignment190722</string>
+    <string name="editButton">"Chinh sua "</string>
+    <string name="deleteButton">Xoa</string>
+</resources>
